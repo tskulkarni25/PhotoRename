@@ -9,6 +9,7 @@ the time and date the photo; for example: "photo.jpg, Krakow, 2013-09-05
 may share the time and date, due to timezone differences. Mike notices that
 his way of filing photos on his computer has become a mess. He wants to
 reorganize the photos.
+
 First he decides to group the photos by city, then, within each such group,
 sort the photos by the time they were taken and finally assign consecutive
 natural numbers to the photos, starting from 1. Afterwards he intends to
